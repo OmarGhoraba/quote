@@ -1,0 +1,13 @@
+.container button {
+    background-color: bisque;
+}
+.container button:hover {
+    background-color: aqua;
+    transition: all 0.5s;
+}
+.container h1 {
+    font-size: 5rem;
+}
+.container .static{ 
+    font-size: 3rem;
+}
